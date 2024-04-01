@@ -75,7 +75,7 @@ owner: object(User Preview)
 ```
 ## Майнд-карта (МК)
 Данная МК представляет собой набор тестов для тестирования объекта **POST**. Подробная проверка расписанна для **Get List** и **Create Post**.
-![Alt-текст](https://disk.yandex.ru/d/M-kyj1jaWmZ_jg)
+![Alt-текст](https://github.com/VerdenIvan/DummyAPI/blob/main/DummyAPI.xmind).
 
 
 
